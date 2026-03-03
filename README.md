@@ -1,4 +1,5 @@
-# 헬다이버즈2 스트라타젬 보조 기구
+<img width="1452" height="825" alt="1" src="https://github.com/user-attachments/assets/f529fa1b-ffbf-454f-b73d-fa99d7e3af25" />
+<img width="850" height="478" alt="2" src="https://github.com/user-attachments/assets/554314f3-799b-404c-aa9d-5b4e1b6e6bae" />
 
 ### 주요 기능
 * **스트라타젬 설정 자동 인식 :** 프로그램 실행 시 인게임 스트라타젬 설정을 자동으로 로드합니다.
