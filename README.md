@@ -52,7 +52,7 @@ overlayKey=
 | **Backspace** | `Back` | 백스페이스 |
 | **CapsLock** | `CapsLock` | 캡스락 |
 | **Space** | `Space` | 스페이스바 |
-| **Enter** | `Return` | 엔터 |
+| **Enter** | `Enter` | 엔터 |
 | **Insert** | `Insert` | 인서트 |
 | **Home** | `Home` | 홈 |
 | **Delete** | `Delete` | 딜리트 |
