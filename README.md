@@ -1,14 +1,14 @@
-<img width="850" height="825" alt="1" src="https://github.com/user-attachments/assets/f529fa1b-ffbf-454f-b73d-fa99d7e3af25" />
+<img width="850" height="825" alt="1" src="https://github.com/user-attachments/assets/2cf31215-cf8e-4958-b7dc-24b4701b55d3" />
 <img width="850" height="478" alt="2" src="https://github.com/user-attachments/assets/554314f3-799b-404c-aa9d-5b4e1b6e6bae" />
 
 ## 헬다이버즈2 스트라타젬 보조 기구
 [다운로드 하러 가기](https://github.com/ChubbyMaru/HD2-Stratagem-Tool/releases/latest)
 
 ## 주요 기능
-* **스트라타젬 설정 자동 인식 :** 프로그램 실행 시 인게임 스트라타젬 설정을 자동으로 로드합니다.
-* **사후 데이터 관리 :** 업데이트가 중단되어도 `stratagems.json` 수정을 통해 새로운 스트라타젬을 추가할 수 있습니다.
-* **단축키 지원 :** 할당된 단축키의 스트라타젬을 바로 사용할 수 있습니다.
-* **오버레이 지원 :** 마우스 중심 오버레이(라디얼 메뉴)로 직관적인 선택이 가능합니다.
+* **스트라타젬 설정 자동 인식 :** 프로그램 실행 시 인게임 스트라타젬 설정을 자동으로 불러옵니다.
+* **데이터 관리 :** 업데이트가 중단되어도 `stratagems.json` 수정을 통해 스트라타젬을 추가할 수 있습니다.
+* **단축키 지원 :** 단축키를 이용해 스트라타젬 즉시 사용
+* **오버레이 지원 :** 오버레이(라디얼 메뉴)로 직관적인 선택이 가능합니다.
 * **사용자 친화적 UI :** 인게임과 동일한 배열 및 마우스 오버 시 이름 표시 기능을 지원합니다.
 
 ## 사용 방법
