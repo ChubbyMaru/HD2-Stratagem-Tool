@@ -1,4 +1,4 @@
-<img width="850" height="825" alt="1" src="https://github.com/user-attachments/assets/2cf31215-cf8e-4958-b7dc-24b4701b55d3" />
+<img width="850" height="825" alt="1" src="https://github.com/user-attachments/assets/9b2f7372-38bf-4ef9-99a0-a87f5568cb09" />
 <img width="850" height="478" alt="2" src="https://github.com/user-attachments/assets/554314f3-799b-404c-aa9d-5b4e1b6e6bae" />
 
 ## 헬다이버즈2 스트라타젬 보조 기구
@@ -14,7 +14,7 @@
 ## 사용 방법
 * **오버레이 단축키 :** `MButton` (마우스 휠 클릭)
 * **증원 단축키 :** `XButton1` (마우스 뒤로가기)
-* **슬롯 단축키 :** `F6` ~ `F9`
+* **슬롯 단축키 :** `F6` ~ `F11`
 
 ## 설정 변경 (`settings.ini`)
 단축키를 변경하고 싶다면 파일을 열어 수정하면 됩니다.
