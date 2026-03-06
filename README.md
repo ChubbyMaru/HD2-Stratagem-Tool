@@ -1,4 +1,4 @@
-<img width="850" height="825" alt="1" src="https://github.com/user-attachments/assets/9b2f7372-38bf-4ef9-99a0-a87f5568cb09" />
+<img width="850" height="825" alt="1" src="https://github.com/user-attachments/assets/4572a2f1-b0fc-4442-98e5-78fa9c08da53" />
 <img width="850" height="478" alt="2" src="https://github.com/user-attachments/assets/554314f3-799b-404c-aa9d-5b4e1b6e6bae" />
 
 ## 헬다이버즈2 스트라타젬 보조 기구
