@@ -1,5 +1,6 @@
-<img width="1552" height="730" alt="1" src="https://github.com/user-attachments/assets/835117aa-e96f-4893-8011-8ca1182ca9c2" />
-<img width="1921" height="1081" alt="2" src="https://github.com/user-attachments/assets/43115318-c97b-4ec8-9533-2129bb908743" />
+<img src="https://github.com/user-attachments/assets/835117aa-e96f-4893-8011-8ca1182ca9c2" />
+<img src="https://github.com/user-attachments/assets/43115318-c97b-4ec8-9533-2129bb908743" />
+<img src="https://github.com/user-attachments/assets/272cf112-5a7d-4993-b402-f915e1b2f749" />
 
 ## 헬다이버즈2 스트라타젬 보조 기구
 * **스트라타젬 단축키 자동 인식**<br>게임 설정 파일 `input_settings.config` 기반으로 작동하여 별도의 초기 설정이 필요 없습니다.
